@@ -3,3 +3,5 @@
 credentials.yml
 NOTES.md
 *.gem
+.ruby-version
+.ruby-gemset
